@@ -12735,6 +12735,7 @@ html.boxed .rd-navbar--is-clone {
   -webkit-transform: translateX(-320px);
   transform: translateX(-320px);
   left: auto;
+  display: none;
 }
 
 @media (min-width: 1200px) {
@@ -12751,6 +12752,7 @@ html.boxed .rd-navbar--is-clone {
   -webkit-transform: translateX(320px);
   transform: translateX(320px);
   right: auto;
+  display: none;
 }
 
 @media (min-width: 1200px) {
